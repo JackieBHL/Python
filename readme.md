@@ -1,1 +1,1 @@
-Create a custom QR code using a web address
+For practing Python coding skill 
