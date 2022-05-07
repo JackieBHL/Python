@@ -1,6 +1,6 @@
 #nim.py
 #CSE 5120
-#Binghui Liu 006285600 
+
 
 import random
 
