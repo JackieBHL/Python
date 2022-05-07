@@ -3,7 +3,7 @@
 
 # to be used with CSE 5120 HW3
 
-# Student Completer:_Binghui Liu_ SID:__006285600_
+# Student Completer
 
 import random
 import copy
